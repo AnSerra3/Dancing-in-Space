@@ -1,5 +1,7 @@
 # Dancing in Space
-Here, you can see the details of our project for the robocup onstage competition. We progammed 4 robots (1 spider, 2 medium and 1 bigger), who dance together.  
+Here, you can see the details of our project who won the first place in the european robocup onstage competition **🥇**
+<br>
+We progammed 4 robots (1 spider, 2 medium and 1 bigger), who dance together. 
 
 ![robots](./Images/Robots.jpeg)
 
