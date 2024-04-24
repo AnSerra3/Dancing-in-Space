@@ -1,14 +1,18 @@
 # Dancing in Space
-Here, you can see the details of our project who won the first place in the european robocup onstage competition **🥇**
+This is the main documentation resource of the project that won first place in the European RoboCup OnStage competition held on 4th June 2022 in Guimares, Portugal  **🥇**
 <br>
-We progammed 4 robots (1 spider, 2 medium and 1 bigger), who dance together. 
+We realised four robots: 
+1) a spiderish one
+2) 2 medium-size ones
+3) a bigger one
+All of them who dance together.
 
 ![robots](./Images/Robots.jpeg)
 
-Our performance is based on 2 pieces of music:"Also sprach Zarathustra" by Richard Strauss and "We will rock you" by Queen. The 4 robots will execute an engaging choreography, syncronized with each other by Lego Bluetooth.
+Our performance consisted of two songs:"Also sprach Zarathustra" by Richard Strauss and "We will rock you" by Queen. The robots created an engaging atmosphere, syncronized with each other by Lego Bluetooth.
 
 ![bluetooth](./Images/Bluetooth.jpeg)
 
-We have also added a led strip that will accompany the whole choreography in time with the music. The lights will simulate constellations with a simple switch on-off...  Therefore, we have attached the LEDs behind a billboard that will be the background to the show. This playbill represents space, full of stars and planets.
+We added a led strip that will accompany the whole choreography in time with music. Lights simulated constellations with a simple switch on-off. Subsequently, we attached LEDs behind a billboard as a background for the show. This playbill represents space, full of stars and planets.
 
 ![leds](./Images/Leds.jpeg)
